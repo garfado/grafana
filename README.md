@@ -49,6 +49,20 @@ camada Silver
 Camada Bronze
 ![image](https://github.com/user-attachments/assets/5225fa6a-044e-4914-948c-0677b411b587)
 
+Grafana
+![image](https://github.com/user-attachments/assets/4b7647b4-ca5d-4d76-ac6b-cf0a64d9621f)
+
+Conclusão: O desafio foi superado com sucesso, demonstrando a viabilidade de configurar um pipeline completo para um ambiente de produção.
+
+Print do esquema de dados 
+
+Camada Gold
+![image](https://github.com/user-attachments/assets/eba4590e-a56b-4b57-a1b2-0b1d709dbacd)
+
+Camada Silver
+![image](https://github.com/user-attachments/assets/96606dfd-2186-4c6b-b496-201ef6319c14)
+
+
 
 
 
