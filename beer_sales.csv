@@ -1,0 +1,22 @@
+customer_name,beer_name,quantity,order_date
+John Doe,IPA,5,2020-12-01
+Jane Smith,Stout,3,2020-12-02
+Alice Johnson,Lager,10,2020-12-03
+John Doe,IPA,5,2021-12-01
+Jane Smith,Stout,3,2021-12-02
+Alice Johnson,Lager,10,2021-12-03
+John Doe,IPA,5,2022-12-01
+Jane Smith,Stout,3,2022-12-02
+Alice Johnson,Lager,10,2022-12-03
+John Doe,IPA,5,2023-12-01
+Jane Smith,Stout,3,2023-12-02
+Alice Johnson,Lager,10,2023-12-03
+John Doe,IPA,5,2024-12-01
+Jane Smith,Stout,3,2024-12-02
+Alice Johnson,Lager,10,2024-12-03
+John Doe,IPA,5,2025-12-01
+Jane Smith,Stout,3,2025-12-02
+Alice Johnson,Lager,10,2025-12-03
+John Doe,IPA,5,2026-12-01
+Jane Smith,Stout,3,2026-12-02
+Alice Johnson,Lager,10,2026-12-03
