@@ -22,8 +22,8 @@ Implementação do Airflow
 
 Criação de 3 DAGs:
 
-![image](https://github.com/user-attachments/assets/b83641cb-a78b-489a-88dd-8aca8a42ca6d)
 Ingestão de dados CSV na camada Bronze.
+![image](https://github.com/user-attachments/assets/b83641cb-a78b-489a-88dd-8aca8a42ca6d)
 
 Transformação e limpeza de dados para a camada Silver.
 ![image](https://github.com/user-attachments/assets/298d606e-e1ab-477c-a44d-c3f5de142cf4)
@@ -34,5 +34,23 @@ Agregação de dados na camada Gold.
 Foi criado um arquivo CSV fictício contendo dados de pedidos de cerveja.
 beer_sales.csv
 
-Configuração do Grafana
+Camada Medalhão 
+
+Pipeline Completo: Dados fluem desde a ingestão (Bronze) até a agregação e visualização (Gold).
+Monitoramento: Dashboard funcional no Grafana, exibindo insights agregados sobre vendas de cerveja.
+Ambiente Otimizado: Configurado com recursos limitados e pronto para escalabilidade.
+
+Camada Gold
+![image](https://github.com/user-attachments/assets/46f587b5-f4ff-4d23-bd31-2ea7274d7488)
+
+camada Silver
+![image](https://github.com/user-attachments/assets/8f1a78e7-f922-4ee1-9475-029dcd306a6a)
+
+Camada Bronze
+![image](https://github.com/user-attachments/assets/5225fa6a-044e-4914-948c-0677b411b587)
+
+
+
+
+
 
